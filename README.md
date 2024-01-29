@@ -11,7 +11,6 @@ https://chromewebstore.google.com/detail/disable-content-security/ieelmcmcagommp
 
 # Open Facebook Page
 
-https://github.com/khalidalshaibani/PostsGrapper_CF
 open the facebook page you want to grap its posts
 
 # Create Database
